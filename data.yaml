@@ -1,0 +1,12 @@
+path: /content/drive/MyDrive/teeth
+train: /content/drive/MyDrive/teeth/images/test
+val: /content/drive/MyDrive/teeth/images/test
+test: /content/drive/MyDrive/teeth/images/test
+
+nc: 5
+names:
+    0: 'Central incisor'
+    1: 'First premolar'
+    2: 'Impacted canine'
+    3: 'Lateral incisor'
+    4: 'Second premolar'

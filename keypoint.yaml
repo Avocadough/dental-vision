@@ -1,0 +1,14 @@
+path: /content/drive/MyDrive/teeth/keypoint
+train: /content/drive/MyDrive/teeth/keypoint/images/train
+val: /content/drive/MyDrive/teeth/keypoint/images/val
+
+
+# จำนวนคลาส (หมวดหมู่)
+nc: 1
+
+# ชื่อของคลาส
+names:
+    0: 'keypoint'
+
+# รูปแบบของ Keypoints (kpt_shape)
+kpt_shape: [24, 2]
