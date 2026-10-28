@@ -1,4 +1,18 @@
-# Dental image detection and segmentation experiments
+<div align="center">
+
+# Dental Vision
+
+**Exploring dental-image detection and segmentation with YOLO.**
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/Ultralytics-YOLO-111F68?logo=ultralytics&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-5A6472)
+
+[Overview](#overview) · [Run](#run-a-checkpoint-on-one-image) · [Repository guide](#repository-guide) · [Limitations](#evaluation-and-reproducibility-limits)
+
+</div>
+
+## Overview
 
 An early computer-vision exploration using Ultralytics YOLO on a small set of dental images. The original [Colab notebook](teeth.ipynb) contains object detection, segmentation, and keypoint experiments; this repository also includes historical detection and segmentation checkpoints and their image/annotation files. A small Python command below makes the two included checkpoints easier to inspect locally.
 
